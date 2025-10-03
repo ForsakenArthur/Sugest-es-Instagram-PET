@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guia para Sugestões no Instagram - PET Química</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-800">
+
+    <div class="container mx-auto p-4 md:p-8">
+
+        <!-- Header -->
+        <header class="text-center mb-10">
+            <h1 class="text-4xl md:text-5xl font-bold text-blue-700">PET Química</h1>
+            <p class="text-lg md:text-xl text-gray-600 mt-2">Guia para Sugestões de Publicação no Instagram</p>
+            <div class="w-24 h-1 bg-blue-500 mx-auto mt-4 rounded"></div>
+        </header>
+
+        <!-- Introduction -->
+        <div class="max-w-4xl mx-auto bg-white p-6 rounded-xl shadow-md mb-10 border border-gray-200">
+            <p class="text-center text-gray-700">
+                Estas são as regras e instruções que cada integrante deve seguir ao fazer uma sugestão para o Instagram. O objetivo é garantir a qualidade, a liberdade criativa (com temas de química!) e facilitar o trabalho da comissão na hora de publicar.
+            </p>
+        </div>
+
+        <!-- Rules Grid -->
+        <main class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto">
+
+            <!-- Rule 0: Quem pode sugerir -->
+            <div class="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow duration-300 border-t-4 border-blue-500">
+                <div class="flex items-center mb-4">
+                    <span class="text-3xl mr-4">👥</span>
+                    <h2 class="text-xl font-bold text-gray-900">Quem pode sugerir?</h2>
+                </div>
+                <p class="text-gray-700">
+                    <strong>Todos</strong> os integrantes do PET Química podem fazer sugestões, mesmo que não estejam na sua semana de entrega designada. A participação é sempre bem-vinda!
+                </p>
+            </div>
+
+            <!-- Rule 1: Formato de Envio -->
+            <div class="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow duration-300 border-t-4 border-blue-500">
+                <div class="flex items-center mb-4">
+                    <span class="text-3xl mr-4">📄</span>
+                    <h2 class="text-xl font-bold text-gray-900">Formato de Envio</h2>
+                </div>
+                <p class="text-gray-700">
+                    Crie um <strong>PDF</strong> com o nome no formato: <br>
+                    <code class="bg-blue-100 text-blue-800 px-2 py-1 rounded text-sm">sugestão NOME (dd-mm-aaaa)</code>. <br>
+                    Envie o PDF e as imagens da publicação através do formulário designado pela comissão.
+                </p>
+            </div>
+
+            <!-- Rule 2: Detalhes da Sugestão -->
+            <div class="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow duration-300 border-t-4 border-blue-500">
+                <div class="flex items-center mb-4">
+                    <span class="text-3xl mr-4">✍️</span>
+                    <h2 class="text-xl font-bold text-gray-900">Detalhes da Sugestão</h2>
+                </div>
+                <p class="text-gray-700">
+                    Descreva sua ideia claramente. Pode ser uma sugestão de legenda, um roteiro para Reels ou qualquer detalhe que ajude a comissão. Não se esqueça de citar as <strong>referências</strong> utilizadas!
+                </p>
+            </div>
+
+            <!-- Rule 3: Qualidade das Imagens -->
+            <div class="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow duration-300 border-t-4 border-green-500">
+                <div class="flex items-center mb-4">
+                    <span class="text-3xl mr-4">🖼️</span>
+                    <h2 class="text-xl font-bold text-gray-900">Qualidade das Imagens</h2>
+                </div>
+                <p class="text-gray-700">
+                    As imagens precisam ter <strong>boa qualidade</strong>. Se você não encontrar uma imagem com resolução adequada, comunique isso claramente no documento PDF para que a comissão possa ajudar.
+                </p>
+            </div>
+
+            <!-- Rule 4: Gravação de Reels -->
+            <div class="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow duration-300 border-t-4 border-green-500">
+                <div class="flex items-center mb-4">
+                    <span class="text-3xl mr-4">🎬</span>
+                    <h2 class="text-xl font-bold text-gray-900">Gravação de Reels</h2>
+                </div>
+                <p class="text-gray-700">
+                    Se sua sugestão for um Reels e você quiser participar da gravação (atuando ou narrando), inclua todos os seus <strong>horários de disponibilidade</strong> no documento. Isso agiliza muito o processo!
+                </p>
+            </div>
+
+            <!-- Rule 5: Conteúdo Completo -->
+            <div class="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow duration-300 border-t-4 border-green-500">
+                <div class="flex items-center mb-4">
+                    <span class="text-3xl mr-4">✅</span>
+                    <h2 class="text-xl font-bold text-gray-900">Conteúdo Completo</h2>
+                </div>
+                <p class="text-gray-700">
+                    A sugestão deve ser autossuficiente. A comissão não deve precisar fazer <strong>nenhuma pesquisa adicional</strong> para criar o post. Entregue todo o material e informações necessárias.
+                </p>
+            </div>
+
+        </main>
+
+        <!-- Footer -->
+        <footer class="text-center mt-12 py-4">
+            <p class="text-gray-500">Desenvolvido para facilitar as contribuições ao Instagram do PET Química.</p>
+        </footer>
+
+    </div>
+
+</body>
+</html>
